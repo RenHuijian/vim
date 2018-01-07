@@ -4,21 +4,21 @@ thanks shoulinwang help
 vim
 
 cd ~ && rm -rf .vim
-git clone --recursive https://github.com/RenHuijian/vim/vimrc .vim
+git clone --recursive https://github.com/RenHuijian/vimrc .vim
 ln -s ~/.vim/init.vim .vimrc
 
 gvim
 
-git clone --recursive https://github.com/RenHuijian/vim/vimrc vimfiles
+git clone --recursive https://github.com/RenHuijian/vimrc vimfiles
 neovim in linux
 
 cd ~ && rm -rf .vim
-git clone --recursive https://github.com/RenHuijian/vim/vimrc .vim
+git clone --recursive https://github.com/RenHuijian/vimrc .vim
 ln -s ~/.vim ~/.config/nvim
 neovim in windows
 
 cd %USERPROFILE%\AppData\Local
-git clone --recursive https://github.com/RenHuijian/vim/vimrc nvim
+git clone --recursive https://github.com/RenHuijian/vimrc nvim
 Plugins
 
 ack.vim
